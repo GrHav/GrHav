@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hi my name **Robert Varian**.<br>
+Hi my name is **Robert Varian**.<br>
 Perkenalkan nama saya **Robert Varian**.<br>
 
 Welcome to my GitHub page.<br>
